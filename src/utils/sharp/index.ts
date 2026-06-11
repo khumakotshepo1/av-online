@@ -1,6 +1,6 @@
 import sharp from "sharp";
 
-export async function Imagecustomizer(
+export async function imageCustomizer(
   image: File,
   resize: number,
   quality: number,
